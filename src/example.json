@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "title": "Aliens",
+        "director": "Franco Massola", 
+        "year": "1998",
+        "rating": "100"
+    },
+
+    {
+        "id": "2",
+        "title": "Aliens 2",
+        "director": "Candela Massola", 
+        "year": "1999",
+        "rating": "120"
+    }
+
+]
